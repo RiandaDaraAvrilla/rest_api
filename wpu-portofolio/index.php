@@ -18,7 +18,7 @@
       line-height: 1.6;
     }
     header {
-      background-color:rgb(131, 188, 241);
+      background-color:rgb(21, 28, 34);
       color: white;
       padding: 2rem 1rem;
       text-align: center;
@@ -53,7 +53,7 @@
       margin-bottom: 2.5rem;
     }
     h2 {
-      color:rgb(50, 151, 218);
+      color:rgb(122, 190, 235);
       margin-bottom: 1rem;
       border-bottom: 2px solid #ddd;
       padding-bottom: 0.5rem;
@@ -74,7 +74,7 @@
       margin: 0.5rem 0;
     }
     a {
-      color:rgb(5, 86, 238);
+      color:rgb(119, 157, 228);
       text-decoration: none;
     }
     .gallery {
@@ -121,7 +121,7 @@
     }
     .contact-form button {
       padding: 0.7rem 1.5rem;
-      background-color:rgb(7, 26, 61);
+      background-color:rgb(19, 24, 34);
       color: white;
       border: none;
       border-radius: 5px;
@@ -233,8 +233,7 @@
 
         <label for="message">Message</label>
         <textarea id="message" name="message" rows="4" required></textarea>
-
-        <button type="submit">Send Message</button>
+        <button type="submit"> Send Message</button>
       </form>
     </section>
   </div>
