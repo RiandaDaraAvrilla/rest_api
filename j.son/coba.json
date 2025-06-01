@@ -1,0 +1,30 @@
+[
+    { 
+        "nama" : "Rianda",
+        "umur" : 20,
+        "nim" : "2217020007",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Aulia Arham",
+            "pembimbing2" : "Yaslinada"
+        }
+    },
+    { 
+        "nama" : "Rianda",
+        "umur" : 20,
+        "nim" : "2217020007",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Aulia Arham",
+            "pembimbing2" : "Yaslinada"
+        }
+    }
+]
